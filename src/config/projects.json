@@ -1,0 +1,16 @@
+[
+    {
+        "title":"Seminario de Kickboxing",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus libero eaque neque natus nihil quis iusto amet vero assumenda placeat inventore rerum enim similique officia modi aperiam consequuntur, ea quia quasi fuga, ex vitae eligendi? Beatae, quod quaerat animi voluptates aspernatur, deserunt iusto adipisci nemo porro vel, nobis voluptatum dolore.",
+        "image":"favicon.svg"
+    },
+    {
+        "title":"Seminario de Jiujitsu",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus libero eaque neque natus nihil quis iusto amet vero assumenda placeat inventore rerum enim similique officia modi aperiam consequuntur, ea quia quasi fuga, ex vitae eligendi? Beatae, quod quaerat animi voluptates aspernatur, deserunt iusto adipisci nemo porro vel, nobis voluptatum dolore.",
+        "image":"favicon.svg"
+    },    {
+        "title":"Seminario de Muay Thai",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus libero eaque neque natus nihil quis iusto amet vero assumenda placeat inventore rerum enim similique officia modi aperiam consequuntur, ea quia quasi fuga, ex vitae eligendi? Beatae, quod quaerat animi voluptates aspernatur, deserunt iusto adipisci nemo porro vel, nobis voluptatum dolore.",
+        "image":"favicon.svg"
+    }
+]
